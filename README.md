@@ -1,3 +1,3 @@
 # Sushi Website [PROJECT]
 
-In progress...
+https://sushiman-website-project.netlify.app/
